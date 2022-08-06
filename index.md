@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+# Welcome to my trail Github pages link
 
-You can use the [editor on GitHub](https://github.com/ShubhSharma7410/ShubhSharma7410.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can use this [link](https://github.com/ShubhSharma7410/ShubhSharma7410.github.io) to do changes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
