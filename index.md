@@ -1,6 +1,6 @@
 # Welcome to my trail Github pages link
 
-You can use this [link](https://github.com/ShubhSharma7410/ShubhSharma7410.github.io) to do changes
+You can use this [link](https://github.com/ShubhSharma7410/ShubhSharma7410.github.io) to do changes and website link is [this](ShubhSharma7410.github.io)
 
 ## Bad News, no plans
 
